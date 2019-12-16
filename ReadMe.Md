@@ -15,7 +15,10 @@
 ```sh
 $ Donwlaod zip or clone project
 $ Navigate to Folder
-$ npm install
+$ npm install -g ts-node
+$ npm install -D typescript
+$ npm install -D tslint
+$ npm install 
 $ npm start
 ```
 ```sh
